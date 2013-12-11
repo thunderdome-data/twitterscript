@@ -1,7 +1,7 @@
 twitterscript
 =============
 
-Python script for grabbing an archive of a user's tweets.
+Python script for grabbing an archive of a user's tweets and dumping it into a simple CSV.
 
 `pip install requirements.txt`
 
